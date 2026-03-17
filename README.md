@@ -49,7 +49,8 @@ This commands includes
 <img width="239" height="96" alt="Screenshot 2026-03-17 101845" src="https://github.com/user-attachments/assets/cc6fc3ff-12b5-4934-8c5e-dba72e8492c0" />
 
 ## nbtstat
-<img width="839" height="668" alt="Screenshot 2026-03-17 101918" src="https://github.com/user-attachments/assets/6f3077b9-cef4-4b81-9846-9471c46c812e" />
+<img width="858" height="539" alt="Screenshot 2026-03-17 101904" src="https://github.com/user-attachments/assets/b93fa663-3a24-4d06-b693-352061578734" />
+
 
 ## arp
 <img width="839" height="668" alt="Screenshot 2026-03-17 101918" src="https://github.com/user-attachments/assets/7c56e908-d812-4662-a61b-4237ff0b1b22" />
